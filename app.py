@@ -7,3 +7,4 @@ def greet(name):
 if __name__ == "__main__":
     print("Sum:", add(5, 3))
     print(greet("Anup kumar Rai"))
+    print("Anup pushed the code")
